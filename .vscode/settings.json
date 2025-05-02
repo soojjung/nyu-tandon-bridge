@@ -3,7 +3,9 @@
     "editor.defaultFormatter": "xaver.clang-format",
     "clang-format.executable": "/opt/homebrew/bin/clang-format",
     "files.associations": {
-      "iostream": "cpp"
+      "iostream": "cpp",
+      "iosfwd": "cpp",
+      "ostream": "cpp"
     }
   }
   

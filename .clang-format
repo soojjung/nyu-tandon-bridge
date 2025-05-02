@@ -4,6 +4,6 @@ UseTab: Never
 ColumnLimit: 80
 SpacesInAngles: false
 SpacesInParentheses: false
-SpaceBeforeParens: Never
+SpaceBeforeParens: ControlStatements
 AllowShortIfStatementsOnASingleLine: false
 AllowShortFunctionsOnASingleLine: Inline

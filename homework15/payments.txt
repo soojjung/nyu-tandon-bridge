@@ -1,0 +1,3 @@
+20 Alice
+40 Bob
+60 Carol
